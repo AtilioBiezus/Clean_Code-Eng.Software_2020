@@ -1,6 +1,6 @@
 package exemploThread;
 
-public class ThreadExemple {
+public class Thread {
 	
 	public void calculaTotalRecebido(){
 		  new Thread() {
